@@ -1,2 +1,2 @@
-# fitter-acrl.github.io
+sohojatri.github.io
 ACRL Fitter Campaign site
